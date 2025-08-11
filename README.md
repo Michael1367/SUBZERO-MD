@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-    <strong>2. GET SESSION ID</strong>
+    <strong>2. SUBZERO-MD;;;aB0BwJRZ#KxQCAJKgesnw5kPwi5XRihjVEt801eSDX-V98ptMnlo</strong>
     <br>
     <a href="https://subzero-id.onrender.com/" target="_blank">
         <img alt="WEBSITE" src="https://img.shields.io/badge/Pair-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkred&color=darkred"/>
